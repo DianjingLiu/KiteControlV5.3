@@ -1,0 +1,2 @@
+model_checkpoint_path: "kite_memory2018_rule3_n7_NT.ckpt"
+all_model_checkpoint_paths: "kite_memory2018_rule3_n7_NT.ckpt"

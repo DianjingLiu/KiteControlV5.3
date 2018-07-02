@@ -1,0 +1,12 @@
+*DS_Store
+*.pyc
+*.gif
+*.mp4
+*.png
+tmp*
+* copy*
+tmp/
+var/
+samples/
+result/
+old/

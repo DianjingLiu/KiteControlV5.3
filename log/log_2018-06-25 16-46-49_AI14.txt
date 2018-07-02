@@ -1,0 +1,2 @@
+# Fuzzy logic control.
+# Timestamp ControlMode TrackSucceed KiteLoc1 KiteLoc2 KiteAngle RevolutionsL RevolutionsR RotateSpeedL RotateSpeedR TensionVL TensionVR JoyStickWheel 

@@ -1,0 +1,3 @@
+# RL. rule 2: point to target point (100 below center)
+# Timestamp ControlMode TrackSucceed KiteLoc1 KiteLoc2 KiteAngle RevolutionsL RevolutionsR RotateSpeedL RotateSpeedR TensionVL TensionVR JoyStickWheel 
+1529596124.5599825, -1, False, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
